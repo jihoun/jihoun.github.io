@@ -1,0 +1,23 @@
+{
+  "Category": "품종",
+  "Id": "모돈번호",
+  "Round Number": "산차",
+  "Current Status": "현재상태",
+  "Last Task": "최종작업",
+  "Last Update Date": "최종작업일",
+  "Pigs": "모돈",
+  "Staff": "사용자",
+  "Search Pig": "모돈번호",
+  "pending_fertilization": "후보돈",
+  "pregnant": "임신돈",
+  "breast_feeding": "포유돈",
+  "solid_food_feeding": "이유모돈",
+  "failed_fertilization": "재발돈",
+  "miscariage": "유산돈",
+  "dead": "도폐사돈",
+  "insemination": "교배",
+  "birth": "분만",
+  "solidFood": "이유",
+  "accident": "사고",
+  "alive": "보유모돈"
+}

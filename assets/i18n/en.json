@@ -1,0 +1,14 @@
+{
+  "pending_fertilization": "Pending fertilization",
+  "pregnant": "Pregnant",
+  "breast_feeding": "Breast Feeding",
+  "solid_food_feeding": "Solid Food Feeding",
+  "failed_fertilization": "Failed Fertilization",
+  "miscariage": "Misscariage",
+  "dead": "Dead",
+  "insemination": "Insemination",
+  "birth": "Birth",
+  "solidFood": "Solid Food",
+  "accident": "Accident",
+  "alive": "Alive"
+}
