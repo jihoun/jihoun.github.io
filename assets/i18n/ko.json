@@ -19,5 +19,13 @@
   "birth": "분만",
   "solidFood": "이유",
   "accident": "사고",
-  "alive": "보유모돈"
+  "alive": "보유모돈",
+  "Fertilization date": "교배일",
+  "Fertilization success": "착상성공일",
+  "Birth date": "분만일",
+  "Expected date":"분만예정일",
+  "Number of baby pig": "총산자수",
+  "Solid food starting date": "이유일",
+  "Number of baby pigs being breastfeed": "포유개시수",
+  "Number of pigs for solid food": "이유두수"
 }
