@@ -1,7 +1,7 @@
 {
   "Category": "품종",
   "Id": "모돈번호",
-  "Round Number": "산차",
+  "Cycle Number": "산차",
   "Current Status": "현재상태",
   "Last Task": "최종작업",
   "Last Update Date": "최종작업일",
@@ -23,7 +23,7 @@
   "Fertilization date": "교배일",
   "Fertilization success": "착상성공일",
   "Birth date": "분만일",
-  "Expected date":"분만예정일",
+  "Expected date": "분만예정일",
   "Number of baby pig": "총산자수",
   "Solid food starting date": "이유일",
   "Number of baby pigs being breastfeed": "포유개시수",
