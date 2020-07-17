@@ -1,31 +1,106 @@
 {
-  "Category": "품종",
-  "Id": "모돈번호",
-  "Cycle Number": "산차",
+  "pigsList": {
+    "id": "모돈번호",
+    "category": "품종",
+    "currentCycle": "산차"
+  },
+  "pigsDetail": {
+    "cycle": "산차",
+    "solidFood": "이유일",
+    "pregnancyDuration": "임신 기간",
+    "breastFeedingDuration": "포유기간",
+    "nbPiglets": "총산",
+    "bornDeadPiglets": "사산",
+    "discardedPiglets": "폐사",
+    "alivePiglets": "실산",
+    "deliveryDate": "분만일",
+    "inseminationDate": "교배일",
+    "transfer": "양자",
+    "brestFed": "이유",
+    "category": "품종",
+    "currentCycle": "산차",
+    "currentStatus": "현재상태",
+    "birthDate": "출생일",
+    "incomingDate": "전입일",
+    "firstInseminationAge": "초교배 일령"
+  },
   "Current Status": "현재상태",
   "Last Task": "최종작업",
   "Last Update Date": "최종작업일",
   "Pigs": "모돈",
   "Staff": "사용자",
   "Search Pig": "모돈번호",
-  "pending_fertilization": "후보돈",
-  "pregnant": "임신돈",
-  "breast_feeding": "포유돈",
-  "solid_food_feeding": "이유모돈",
-  "failed_fertilization": "재발돈",
-  "miscariage": "유산돈",
-  "dead": "도폐사돈",
-  "insemination": "교배",
-  "birth": "분만",
-  "solidFood": "이유",
-  "accident": "사고",
-  "alive": "보유모돈",
   "Fertilization date": "교배일",
   "Fertilization success": "착상성공일",
   "Birth date": "분만일",
   "Expected date": "분만예정일",
-  "Number of baby pig": "총산자수",
   "Solid food starting date": "이유일",
-  "Number of baby pigs being breastfeed": "포유개시수",
-  "Number of pigs for solid food": "이유두수"
+  "status": {
+    "pending_insemination": "후보돈",
+    "pregnant": "임신돈",
+    "breast_feeding": "포유돈",
+    "solid_food_feeding": "이유모돈",
+    "failed_insemination": "재발돈",
+    "miscarried": "유산돈",
+    "dead": "도폐사돈",
+    "accident": "사고",
+    "alive": "보유모돈",
+    "all": "전체"
+  },
+  "actions": {
+    "insemination": "교배",
+    "birth": "분만",
+    "solid_food": "이유",
+    "accident": "사고",
+    "miscarriage": "유산"
+  },
+  "incoming": {
+    "id": "모돈번호",
+    "earNumber": "이각번호",
+    "birthDate": "출생일",
+    "movingDate": "전입일",
+    "sourceFarm": "구입처",
+    "lastTaskDate": "최종작업일",
+    "sourceId": "구입처모돈번호",
+    "startingStatus": "시작상태",
+    "firstMatingAgeInDays": "초교배일령",
+    "startingCycle": "시작산차",
+    "inseminationCount": "교배차수",
+    "weight": "체중",
+    "startingLocation": "시작장소",
+    "bloodNumber": "혈통번호"
+  },
+  "insemination": {
+    "date": "교배일",
+    "method": "교배방법",
+    "natural": "자연 🐷",
+    "artificial": "인공 🧪"
+  },
+  "delivery": {
+    "date": "분만일",
+    "category": "분만구분",
+    "nbPiglets": "총산",
+    "bornDeadPiglets": "사산",
+    "discardedPiglets": "폐사",
+    "nonMaturedPiglets": "미라",
+    "alivePiglets": "실산"
+  },
+  "solidFood": {
+    "date": "이유일자",
+    "nPiglets": "이유두수"
+  },
+  "miscarriage": {
+    "date": "사고일"
+  },
+  "misc": {
+    "save": "저장",
+    "edit": "수정",
+    "cancel": "취소",
+    "comments": "비고",
+    "pigletsCounter": "두"
+  },
+  "transfer": {
+    "date": "전출입일자",
+    "nPiglets": "두수"
+  }
 }

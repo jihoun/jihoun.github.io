@@ -1,14 +1,96 @@
 {
-  "pending_fertilization": "Pending fertilization",
-  "pregnant": "Pregnant",
-  "breast_feeding": "Breast Feeding",
-  "solid_food_feeding": "Solid Food Feeding",
-  "failed_fertilization": "Failed Fertilization",
-  "miscariage": "Misscariage",
-  "dead": "Dead",
-  "insemination": "Insemination",
-  "birth": "Birth",
-  "solidFood": "Solid Food",
-  "accident": "Accident",
-  "alive": "Alive"
+  "pigsList": {
+    "id": "Id",
+    "category": "Category",
+    "currentCycle": "Current Cycle"
+  },
+  "pigsDetail": {
+    "cycle": "Cycle",
+    "solidFood": "Solid food date",
+    "pregnancyDuration": "Pregnancy duration",
+    "breastFeedingDuration": "Breast feeding duration",
+    "nbPiglets": "Piglets count",
+    "bornDeadPiglets": "Born dead",
+    "discardedPiglets": "Discarded piglets",
+    "alivePiglets": "Alive piglets",
+    "deliveryDate": "Delivery",
+    "inseminationDate": "Insemination",
+    "transfer": "Transfered",
+    "brestFed": "Brest fed",
+    "category": "Category",
+    "currentCycle": "Cycle",
+    "currentStatus": "Status",
+    "birthDate": "Birth",
+    "incomingDate": "Incoming",
+    "firstInseminationAge": "First Insemination Age"
+  },
+  "status": {
+    "pending_insemination": "Pending insemination",
+    "pregnant": "Pregnant",
+    "breast_feeding": "Breast feeding",
+    "solid_food_feeding": "Solid food feeding",
+    "failed_insemination": "Failed insemination",
+    "miscarried": "Misscariage",
+    "dead": "Dead",
+    "accident": "Accident",
+    "alive": "Alive",
+    "all": "All"
+  },
+  "incoming": {
+    "id": "Pig Id",
+    "earNumber": "Ear number",
+    "birthDate": "Birth date",
+    "movingDate": "Incoming date",
+    "sourceFarm": "Place bought",
+    "lastTaskDate": "Last task date",
+    "sourceId": "Source Id",
+    "startingStatus": "Starting status",
+    "startingCycle": "Starting cycle",
+    "inseminationCount": "Insemination count",
+    "weight": "Weight",
+    "startingLocation": "Starting location",
+    "bloodNumber": "Blood number",
+    "firstMatingAgeInDays": "First Mating Age In Days"
+  },
+  "actions": {
+    "insemination": "Insemination",
+    "birth": "Delivery",
+    "solid_food": "Solid Food",
+    "accident": "Accident",
+    "miscarriage": "Miscarriage",
+    "null": ""
+  },
+  "insemination": {
+    "date": "Date",
+    "method": "Method",
+    "natural": "Natural🐷",
+    "artificial": "Artificial🧪"
+  },
+  "delivery": {
+    "date": "Date",
+    "category": "Category",
+    "nbPiglets": "Piglets count",
+    "bornDeadPiglets": "Born dead piglets",
+    "discardedPiglets": "Discarded piglets",
+    "nonMaturedPiglets": "Non-matured piglets",
+    "alivePiglets": "Alive Piglets"
+  },
+  "solidFood": {
+    "date": "Date",
+    "nPiglets": "Affected Piglets"
+  },
+  "miscarriage": {
+    "date": "Date"
+  },
+  "misc": {
+    "save": "Save",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "comments": "Comments",
+    "pigletsCounter": ""
+  },
+  "transfer": {
+    "date": "Date",
+    "nPiglets": "Affected Piglets"
+  }
 }
