@@ -50,7 +50,8 @@
     "weight": "Weight",
     "startingLocation": "Starting location",
     "bloodNumber": "Blood number",
-    "firstMatingAgeInDays": "First Mating Age In Days"
+    "firstMatingAgeInDays": "First Mating Age In Days",
+    "takenIdError": "This id is already taken"
   },
   "actions": {
     "insemination": "Insemination",

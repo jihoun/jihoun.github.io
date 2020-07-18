@@ -68,7 +68,8 @@
     "inseminationCount": "교배차수",
     "weight": "체중",
     "startingLocation": "시작장소",
-    "bloodNumber": "혈통번호"
+    "bloodNumber": "혈통번호",
+    "takenIdError": "중복된 모돈번호입니다"
   },
   "insemination": {
     "date": "교배일",
