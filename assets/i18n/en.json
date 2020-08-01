@@ -50,8 +50,11 @@
     "weight": "Weight",
     "startingLocation": "Starting location",
     "bloodNumber": "Blood number",
-    "firstMatingAgeInDays": "First Mating Age In Days",
-    "takenIdError": "This id is already taken"
+    "firstMatingAgeInDays": "First Mating Age",
+    "takenIdError": "This id is already taken",
+    "cycleUnit": "",
+    "inseminationCountUnit": "",
+    "days": "days"
   },
   "actions": {
     "insemination": "Insemination",
@@ -59,13 +62,18 @@
     "solid_food": "Solid Food",
     "accident": "Accident",
     "miscarriage": "Miscarriage",
-    "null": ""
+    "null": "",
+    "pigletTransfer": "Piglet Transfer",
+    "pigletDeath": "Piglet Death",
+    "ovulationConfirm": "Ovulation Confirm"
   },
   "insemination": {
     "date": "Date",
     "method": "Method",
     "natural": "Natural🐷",
-    "artificial": "Artificial🧪"
+    "artificial": "Artificial🧪",
+    "firstDonorPig": "First Donor",
+    "secondDonorPig": "Second Donor"
   },
   "delivery": {
     "date": "Date",
@@ -88,10 +96,25 @@
     "edit": "Edit",
     "cancel": "Cancel",
     "comments": "Comments",
-    "pigletsCounter": ""
+    "pigletsCounter": "🐖"
   },
   "transfer": {
     "date": "Date",
-    "nPiglets": "Affected Piglets"
+    "nPiglets": "Affected Piglets",
+    "reason": "Reason",
+    "pigletsCount": "Piglets Count",
+    "recipientPig": "Recipient pig id"
+  },
+  "pigletDeath": {
+    "date": "Date",
+    "count": "Count",
+    "reason": "Reason"
+  },
+  "ovulationConfirm": {
+    "date": "Date"
+  },
+  "settings": {
+    "vaccines": "Vaccines",
+    "misc": "Misc."
   }
 }

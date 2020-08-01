@@ -29,6 +29,8 @@
   "Last Update Date": "최종작업일",
   "Pigs": "모돈",
   "Staff": "사용자",
+  "Settings": "설정",
+  "Logout": "로그 아웃",
   "Search Pig": "모돈번호",
   "Fertilization date": "교배일",
   "Fertilization success": "착상성공일",
@@ -52,7 +54,8 @@
     "birth": "분만",
     "solid_food": "이유",
     "accident": "사고",
-    "miscarriage": "유산"
+    "miscarriage": "유산",
+    "ovulationConfirm": "재발확인 (임신사고)"
   },
   "incoming": {
     "id": "모돈번호",
@@ -69,7 +72,10 @@
     "weight": "체중",
     "startingLocation": "시작장소",
     "bloodNumber": "혈통번호",
-    "takenIdError": "중복된 모돈번호입니다"
+    "takenIdError": "중복된 모돈번호입니다",
+    "cycleUnit": "산",
+    "inseminationCountUnit": "차",
+    "days": "일"
   },
   "insemination": {
     "date": "교배일",
@@ -102,6 +108,15 @@
   },
   "transfer": {
     "date": "전출입일자",
-    "nPiglets": "두수"
+    "nPiglets": "두수",
+    "reason": "원인"
+  },
+  "pigletDeath": {
+    "date": "페사일",
+    "reason": "페사원인"
+  },
+  "settings": {
+    "vaccines": "백신",
+    "misc": "기타"
   }
 }
