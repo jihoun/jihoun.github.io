@@ -43,8 +43,8 @@
     "breast_feeding": "포유돈",
     "solid_food_feeding": "이유모돈",
     "failed_insemination": "재발돈",
-    "miscarried": "유산돈",
-    "dead": "도폐사돈",
+    "misscaried": "유산돈",
+    "discard": "도폐돈",
     "accident": "사고",
     "alive": "보유모돈",
     "all": "전체"
@@ -55,7 +55,10 @@
     "solid_food": "이유",
     "accident": "사고",
     "miscarriage": "유산",
-    "ovulationConfirm": "재발확인 (임신사고)"
+    "ovulationConfirm": "재발확인 (임신사고)",
+    "pigletTransfer": "양자전출입",
+    "pigletDeath": "자돈 도폐",
+    "discard": "모돈 도폐"
   },
   "incoming": {
     "id": "모돈번호",
@@ -118,5 +121,10 @@
   "settings": {
     "vaccines": "백신",
     "misc": "기타"
+  },
+  "discard": {
+    "date": "도폐일자",
+    "reason": "이유",
+    "category": "구분"
   }
 }
