@@ -123,5 +123,20 @@
   "settings": {
     "vaccines": "Vaccines",
     "misc": "Misc."
+  },
+  "user": {
+    "changePassword": "Change Password",
+    "delete": "Remove User",
+    "newPassword": "New Password",
+    "confirmDeletion": "Do you confirm user's deletion?",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "position": "Position",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "error": {
+    "minlength": "Minimum length: {{requiredLength}}",
+    "required": "This is required"
   }
 }
